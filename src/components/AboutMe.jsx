@@ -2,7 +2,7 @@ import { Code } from "lucide-react";
 
 export const AboutMe = () => {
   return (
-    <section id="about" className="py-24 px-24 relative">
+    <section id="about" className="py-15 px-24 relative">
       <div className="containter mx-auto max-w-5xl">
         <h2 className="text-3xl md:text-4xl font-bold text-center mb-12">
           About <span className="text-primary">Me</span>
@@ -51,10 +51,9 @@ export const AboutMe = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Modeling</h4>
+                  <h4 className="font-semibold text-lg">Problem-Solving</h4>
                   <p className="text-muted-foreground">
-                    I specialize in building and optimizing machine learning
-                    models to extract insights from complex datasets.
+                    Skilled in analyzing requirements and optimizing ML models.
                   </p>
                 </div>
               </div>
@@ -66,10 +65,9 @@ export const AboutMe = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Modeling</h4>
+                  <h4 className="font-semibold text-lg">Critical Thinking</h4>
                   <p className="text-muted-foreground">
-                    I specialize in building and optimizing machine learning
-                    models to extract insights from complex datasets.
+                    Able to assess algorithms and suggest improvements.
                   </p>
                 </div>
               </div>
@@ -81,10 +79,9 @@ export const AboutMe = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="font-semibold text-lg">Modeling</h4>
+                  <h4 className="font-semibold text-lg">Self-Learning</h4>
                   <p className="text-muted-foreground">
-                    I specialize in building and optimizing machine learning
-                    models to extract insights from complex datasets.
+                    Proactively explores and applies new AI technologies.
                   </p>
                 </div>
               </div>
